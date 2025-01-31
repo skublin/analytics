@@ -1,0 +1,21 @@
+ Pliki Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Pliki Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Pliki logów i tymczasowe
+*.log
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+
+# Pliki środowiska wirtualnego (Python)
+venv/
+.env
+*.env
+
